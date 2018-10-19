@@ -1,1 +1,1 @@
-# rest-py3-demo
+# REST API Python3 demo
