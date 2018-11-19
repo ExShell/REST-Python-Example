@@ -16,7 +16,7 @@ import json
 ACCESS_KEY = ""
 SECRET_KEY = ""
 
-API_URL = "https://api.exshell.io"
+API_URL = "https://api.exshell.com"
 
 ACCOUNT_ID = 0
 
